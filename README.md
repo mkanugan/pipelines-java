@@ -1,4 +1,5 @@
 [![Build Status](https://dev.azure.com/mkanugan22/AWSBuild/_apis/build/status/mkanugan.pipelines-java?branchName=master)](https://dev.azure.com/mkanugan22/AWSBuild/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
